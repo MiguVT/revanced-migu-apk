@@ -83,4 +83,4 @@ arch = "arm64-v8a"
 [IconPackStudio]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
 build-mode = "apk"
-version=2.2.042
+version="2.2.042"

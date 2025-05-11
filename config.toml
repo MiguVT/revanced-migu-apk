@@ -35,6 +35,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "9.0.36.683"
+build-mode = "apk"
 
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
 [Music-Extended]
@@ -65,7 +66,7 @@ uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 [Twitter]
 enabled = false # Fails because apkmirror
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
-build-mode = "both"
+build-mode = "apk"
 dpi = "120-640dpi"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
@@ -81,3 +82,4 @@ arch = "arm64-v8a"
 
 [IconPackStudio]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+build-mode = "apk"

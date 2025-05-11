@@ -1,4 +1,3 @@
-IconPackStudio: 2.2 build 016  
 Music-Extended (arm64-v8a): 8.05.51  
 Music-Extended (arm-v7a): 8.05.51  
 Spotify: 9.0.36.683  
